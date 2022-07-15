@@ -1,6 +1,6 @@
 {
   "name": "sniips",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create custom text snippets that you can access on all of your devices",
   "main": "./dist/index.js",
   "scripts": {
